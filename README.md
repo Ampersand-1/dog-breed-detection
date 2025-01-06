@@ -13,4 +13,5 @@ Dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
 - Raymond Huynh
 
 Final Report: [APS360_FinalReport-1.pdf](https://github.com/user-attachments/files/18323705/APS360_FinalReport-1.pdf)
+
 Demo Video: https://www.youtube.com/watch?v=ErtkLMo7uc8
